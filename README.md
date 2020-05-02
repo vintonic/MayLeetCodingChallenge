@@ -5,9 +5,9 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
 > *"The challenge consists of 31 daily problems over the month of May. A problem is added on LeetCode, and you have 24 hours to make a valid submission for it in order to be eligible for rewards."*  
 
 
-Day  | LeetCode | Solution |
----- |----------| ---------|
-01 | [link](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | [link](#)
+ Day  | LeetCode | Solution |
+----- |----------| ---------|
+01 ✅ | [link](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/firstbadversion.py)
 02 | [link](#) | [link](#)
 03 | [link](#) | [link](#)
 04 | [link](#) | [link](#)
