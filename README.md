@@ -8,7 +8,7 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
  Day  | LeetCode | Solution |
 ----- |----------| ---------|
 01 ✅ | [link](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/firstbadversion.py)
-02 | [link](#) | [link](#)
+02 ✅ | [link](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/jewelsandstones.py)
 03 | [link](#) | [link](#)
 04 | [link](#) | [link](#)
 05 | [link](#) | [link](#)
