@@ -2,9 +2,9 @@ class Solution:
     def numJewelsInStones(self, J: str, S: str) -> int:
         
         '''
-        Solution approach: use a list to store the jewels 
+        Solution approach: use a set to store the jewels 
         and to quickly check if a stone is a jewel.
-        The data structure used in Python List implementation 
+        The data structure used in Python Set implementation 
         is Hashing, so common operations like insertion or 
         traversal can be performed in O(1) on average.
         So the total time complexity is O(len(S)).
