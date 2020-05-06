@@ -12,7 +12,7 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
 03 ✅ | [link](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/ransomnote.py)
 04 ✅ | [link](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/numbercomplement.py)
 05 ✅ | [link](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/firstuniquecharacter.py)
-06 | [link](#) | [link](#)
+06 ✅ | [link](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/majorityelement.py)
 07 | [link](#) | [link](#)
 08 | [link](#) | [link](#)
 09 | [link](#) | [link](#)
