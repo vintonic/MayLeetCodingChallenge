@@ -13,7 +13,7 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
 04 ✅ | [Number Complement](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/numbercomplement.py)
 05 ✅ | [First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/firstuniquecharacter.py)
 06 ✅ | [Majority Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/majorityelement.py)
-07 | [soon](#) | [soon](#)
+07 ✅ | [Cousins in Binary Tree](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/cousinsinbinarytree.py)
 08 | [soon](#) | [soon](#)
 09 | [soon](#) | [soon](#)
 10 | [soon](#) | [soon](#)
