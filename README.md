@@ -14,7 +14,7 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
 05 ✅ | [First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/firstuniquecharacter.py)
 06 ✅ | [Majority Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/majorityelement.py)
 07 ✅ | [Cousins in Binary Tree](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/cousinsinbinarytree.py)
-08 | [soon](#) | [soon](#)
+08 ✅ | [Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/checkstraightline.py)
 09 | [soon](#) | [soon](#)
 10 | [soon](#) | [soon](#)
 11 | [soon](#) | [soon](#)
