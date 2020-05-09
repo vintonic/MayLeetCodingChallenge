@@ -1,5 +1,5 @@
 # May LeetCoding Challenge
-My **Python3** solutions for the May LeetCoding Challenge 2020  
+**Python3** solutions for the May LeetCoding Challenge 2020  
 https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/  
 
 > *"The challenge consists of 31 daily problems over the month of May. A problem is added on LeetCode, and you have 24 hours to make a valid submission for it in order to be eligible for rewards."*  
@@ -15,7 +15,7 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
 06 ✅ | [Majority Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/majorityelement.py)
 07 ✅ | [Cousins in Binary Tree](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/cousinsinbinarytree.py)
 08 ✅ | [Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/checkstraightline.py)
-09 | [soon](#) | [soon](#)
+09 ✅ | [Valid Perfect Square](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/validperfectsquare.py)
 10 | [soon](#) | [soon](#)
 11 | [soon](#) | [soon](#)
 12 | [soon](#) | [soon](#)
