@@ -19,7 +19,7 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
 10 ✅ | [Find the Town Judge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/findthetownjudge.py)
 11 ✅ | [Flood Fill](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/floodfill.py)
 12 ✅ | [Single Element in a Sorted Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/singleelementinasortedarray.py)
-13 | [soon](#) | [soon](#)
+13 ✅ | [Remove K Digits](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/removekdigits.py)
 14 | [soon](#) | [soon](#)
 15 | [soon](#) | [soon](#)
 16 | [soon](#) | [soon](#)
