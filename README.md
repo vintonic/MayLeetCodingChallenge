@@ -20,7 +20,7 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
 11 ✅ | [Flood Fill](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/floodfill.py)
 12 ✅ | [Single Element in a Sorted Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/singleelementinasortedarray.py)
 13 ✅ | [Remove K Digits](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/removekdigits.py)
-14 | [soon](#) | [soon](#)
+14 ✅ | [Implement Trie (Prefix Tree)](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/implementtrie.py)
 15 | [soon](#) | [soon](#)
 16 | [soon](#) | [soon](#)
 17 | [soon](#) | [soon](#)
