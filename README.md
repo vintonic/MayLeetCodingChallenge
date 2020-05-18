@@ -24,7 +24,7 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
 15 ✅ | [Maximum Sum Circular Subarray](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3330) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/maximumsumcircularsubarray.py)
 16 ✅ | [Odd Even Linked List](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/oddevenlinkedlist.py)
 17 ✅ | [Find All Anagrams in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3332/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/anagramsinastring.py)
-18 | [soon](#) | [soon](#)
+18 ✅ | [Permutation in String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/permutationinstring.py)
 19 | [soon](#) | [soon](#)
 20 | [soon](#) | [soon](#)
 21 | [soon](#) | [soon](#)
