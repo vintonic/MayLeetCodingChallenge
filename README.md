@@ -27,7 +27,7 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
 18 ✅ | [Permutation in String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/permutationinstring.py)
 19 ✅ | [Online Stock Span](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/onlinestockspan.py)
 20 ✅ | [Kth Smallest Element in a BST](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3335/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/kthsmallestelementinabst.py)
-21 | [soon](#) | [soon](#)
+21 ✅ | [Count Square Submatrices with All Ones](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/) | [link](https://github.com/vintonic/MayLeetCodingChallenge/blob/master/Challenges/countsquaresubmatrices.py)
 22 | [soon](#) | [soon](#)
 23 | [soon](#) | [soon](#)
 24 | [soon](#) | [soon](#)
